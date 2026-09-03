@@ -1,1 +1,9 @@
+#include <iostream>
 
+int main() {
+
+	int edge_cube{5}, volume; // Создаём переменные
+	volume = edge_cube * edge_cube * edge_cube; // Вычисляем объём
+	std::cout << volume; // Выводим на экран сообщение
+	return 0;
+}	

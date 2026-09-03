@@ -1,1 +1,15 @@
+#include <iostream>
+#include <Windows.h>
 
+int main() {
+	SetConsoleOutputCP(CP_UTF8);
+	SetConsoleCP(CP_UTF8);
+
+	// С помощью 2-ой, 5-ой и 6-ой строки правильно обрабатывается вывод кириллицы
+
+	int pi{ 3.14 }, radius, degree; // Объявляем переменные числа Пи, радиуса круга и градуса сектора
+	std::cout << "Введите радиус круга: ";
+	std::cin >> radius;
+
+	return 0;
+}

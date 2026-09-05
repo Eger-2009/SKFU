@@ -11,6 +11,7 @@
 
 Задание 1.
 Листинг кода:
+
 #include <iostream>
 #include <Windows.h>
 

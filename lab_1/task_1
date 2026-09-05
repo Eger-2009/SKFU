@@ -13,6 +13,6 @@ int main() {
 	std::cin >> edge_cube; // Ввод с клавиатуры размер ребра куба
 	volume = edge_cube * edge_cube * edge_cube; // Вычисляем объём
 	std::cout << "Объём куба равен: ";
-	std::cout << volume; // Выводим на экран сообщение
+	std::cout << volume; // Выводим на экран результат
 	return 0;
 }

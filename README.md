@@ -89,3 +89,6 @@
 
 - Скриншоты выполнения программы:
 <img width="318" height="100" alt="image" src="https://github.com/user-attachments/assets/85ce2c65-eea7-4fca-b6bd-b8e360659f68" />
+<img width="321" height="104" alt="image" src="https://github.com/user-attachments/assets/c9379f1b-1a7c-44e7-b34d-fcd10094c481" />
+
+

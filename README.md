@@ -12,20 +12,21 @@
 Задание 1.
 Листинг кода:
 
-#include <iostream>
+	#include <iostream>
+	#include <Windows.h>
 
-#include <Windows.h>
-
-int main() {
-	SetConsoleOutputCP(CP_UTF8);
-	SetConsoleCP(CP_UTF8);
-	// С помощью 2-ой, 5-ой и 6-ой строки правильно обрабатывается вывод кириллицы
-	std::cout << "Объём куба" << std::endl;
-	float edge_cube, volume; // Создаём переменные
-	std::cout << "Введите размер ребра куба: ";
-	std::cin >> edge_cube; // Ввод с клавиатуры размер ребра куба
-	volume = edge_cube * edge_cube * edge_cube; // Вычисляем объём
-	std::cout << "Объём куба равен: ";
-	std::cout << volume; // Выводим на экран результат
-	return 0;
-}
+	int main() {
+		SetConsoleOutputCP(CP_UTF8);
+		SetConsoleCP(CP_UTF8);
+	
+		// С помощью 2-ой, 5-ой и 6-ой строки правильно обрабатывается вывод кириллицы
+	
+		std::cout << "Объём куба" << std::endl;
+		float edge_cube, volume; // Создаём переменные
+		std::cout << "Введите размер ребра куба: ";
+		std::cin >> edge_cube; // Ввод с клавиатуры размер ребра куба
+		volume = edge_cube * edge_cube * edge_cube; // Вычисляем объём
+		std::cout << "Объём куба равен: ";
+		std::cout << volume; // Выводим на экран результат
+		return 0;
+	}

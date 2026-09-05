@@ -31,5 +31,6 @@
 	  }
 
 - Скриншоты выполнения программы:
-
 <img width="450" height="150" alt="image" src="https://github.com/user-attachments/assets/9fc59e20-030b-4ee6-8cdc-276038472bd9" />
+<img width="419" height="161" alt="image" src="https://github.com/user-attachments/assets/ddfb978e-2f23-42b4-ace4-1145755f847a" />
+

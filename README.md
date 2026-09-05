@@ -18,9 +18,7 @@
 	int main() {
 		SetConsoleOutputCP(CP_UTF8);
 		SetConsoleCP(CP_UTF8);
-	
 		// С помощью 2-ой, 5-ой и 6-ой строки правильно обрабатывается вывод кириллицы
-	
 		std::cout << "Объём куба" << std::endl;
 		float edge_cube, volume; // Создаём переменные
 		std::cout << "Введите размер ребра куба: ";

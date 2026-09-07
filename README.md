@@ -76,25 +76,26 @@
 
 - Листинг кода:
 
-      #include <iostream>
-      #include <Windows.h>
+#include <iostream>
+#include <Windows.h>
 
-      int main() {
-	      SetConsoleOutputCP(CP_UTF8);
-	      SetConsoleCP(CP_UTF8);
-	      // С помощью 2-ой, 5-ой и 6-ой строки правильно обрабатывается вывод кириллицы
-	      // Объявляем переменные числа Пи, радиуса круга и градуса сектора
-	      float pi{ 3.14 }, radius;
-	      int degree;
-	      std::cout << "Введите радиус круга: ";
-	      std::cin >> radius; // Ввод с клавиатуры радиуса круга
-	      std::cout << "Введите градусную меру сектора: ";
-	      std::cin >> degree; // Ввод с клавиатуры градусной меры сектора
-	      std::cout << "Площадь сектора равна: ";
-	      // Вычисляем площадь сектора
-	      std::cout << pi * (radius * radius) * (degree / 360.0);
-	      return 0;
-      }
+int main() {
+    SetConsoleOutputCP(CP_UTF8);
+    SetConsoleCP(CP_UTF8);
+
+    float pi{ 3.14 }, radius;
+    int degree;
+
+    std::cout << "Введите радиус круга: ";
+    std::cin >> radius;
+    std::cout << "Введите градусную меру сектора: ";
+    std::cin >> degree;
+
+    std::cout << "Площадь сектора равна: ";
+    std::cout << pi * (radius * radius) * (degree / 360.0);
+
+    return 0;
+}
 
 - Скриншоты выполнения программы:
 <img width="318" height="100" alt="image" src="https://github.com/user-attachments/assets/85ce2c65-eea7-4fca-b6bd-b8e360659f68" />

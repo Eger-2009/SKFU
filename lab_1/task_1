@@ -4,19 +4,19 @@
 using namespace std;
 
 int main() {
-	SetConsoleOutputCP(CP_UTF8);
-	SetConsoleCP(CP_UTF8);
+	  SetConsoleOutputCP(CP_UTF8);
+    SetConsoleCP(CP_UTF8);
 
-	cout << "Объём куба" << endl;
-	float edge_cube, volume;
+    cout << "Объём куба" << "\n";
+    float edge_cube, volume;
 
-	cout << "Введите размер ребра куба: ";
-	cin >> edge_cube;
-	
-	volume = edge_cube * edge_cube * edge_cube;
+    cout << "Введите размер ребра куба: ";
+    cin >> edge_cube;
 
-	cout << "Объём куба равен: ";
-	cout << volume;
+    volume = edge_cube * edge_cube * edge_cube;
 
-	return 0;
+    cout << "Объём куба равен: ";
+    cout << volume;
+
+    return 0;
 }

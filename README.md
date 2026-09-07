@@ -87,22 +87,24 @@
 		#include <iostream>
 		#include <Windows.h>
 
+		using namespace std;
+
 		int main() {
 		    SetConsoleOutputCP(CP_UTF8);
 		    SetConsoleCP(CP_UTF8);
 
- 		    float pi{ 3.14 }, radius;
-    		int degree;
+		    float pi{ 3.14 }, radius;
+		    int degree;
 
-    		std::cout << "Введите радиус круга: ";
-    		std::cin >> radius;
-    		std::cout << "Введите градусную меру сектора: ";
-    		std::cin >> degree;
+		    cout << "Введите радиус круга: ";
+		    cin >> radius;
+		    cout << "Введите градусную меру сектора: ";
+		    cin >> degree;
 
-   			std::cout << "Площадь сектора равна: ";
-    		std::cout << pi * (radius * radius) * (degree / 360.0);
+		    cout << "Площадь сектора равна: ";
+		    cout << pi * (radius * radius) * (degree / 360.0);
 
-    		return 0;
+		    return 0;
 		}
 
 - Скриншоты выполнения программы:

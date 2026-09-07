@@ -28,7 +28,7 @@
 	  	  SetConsoleOutputCP(CP_UTF8);
 		  SetConsoleCP(CP_UTF8);
 
-		  cout << "Объём куба" << endl;
+		  cout << "Объём куба" << "\n";
 		  float edge_cube, volume;
 
 		  cout << "Введите размер ребра куба: ";
@@ -53,24 +53,26 @@
 		#include <iostream>
 		#include <Windows.h>
 
+		using namespace std;
+
 		int main() {
 			SetConsoleOutputCP(CP_UTF8);
 			SetConsoleCP(CP_UTF8);
 
 			int first_num, second_num;
 
-			std::cout << "Введите первое число: ";
-			std::cin >> first_num;
-			std::cout << "Введите второе число: ";
-			std::cin >> second_num;
-	
-			std::cout << "Сумма чисел: ";
-			std::cout << first_num + second_num << "\n";
-			std::cout << "Разность чисел: ";
-			std::cout << first_num - second_num << "\n";
-			std::cout << "Произведение чисел: ";
-			std::cout << first_num * second_num << "\n";
-	
+			cout << "Введите первое число: ";
+			cin >> first_num;
+			cout << "Введите второе число: ";
+			cin >> second_num;
+
+			cout << "Сумма чисел: ";
+			cout << first_num + second_num << "\n";
+			cout << "Разность чисел: ";
+			cout << first_num - second_num << "\n";
+			cout << "Произведение чисел: ";
+			cout << first_num * second_num << "\n";
+
 			return 0;
 		}
 

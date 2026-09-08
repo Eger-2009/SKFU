@@ -24,8 +24,6 @@ int main() {
     else {
         cout << "Вы ввели не число";
     }
-    
-    
 
     return 0;
 }

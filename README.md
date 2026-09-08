@@ -45,33 +45,12 @@
 
 Задание 3.
 
-- Листинг кода:
-
-		#include <iostream>
-		#include <Windows.h>
-
-		using namespace std;
-
-		int main() {
-		    SetConsoleOutputCP(CP_UTF8);
-		    SetConsoleCP(CP_UTF8);
-
-		    float pi{ 3.14 }, radius;
-		    int degree;
-
-		    cout << "Введите радиус круга: ";
-		    cin >> radius;
-		    cout << "Введите градусную меру сектора: ";
-		    cin >> degree;
-
-		    cout << "Площадь сектора равна: ";
-		    cout << pi * (radius * radius) * (degree / 360.0);
-
-		    return 0;
-		}
+<img width="732" height="715" alt="image" src="https://github.com/user-attachments/assets/4de010d4-197f-46b9-8652-87e81ebafc5c" />
 
 - Скриншоты выполнения программы:
 <img width="318" height="100" alt="image" src="https://github.com/user-attachments/assets/85ce2c65-eea7-4fca-b6bd-b8e360659f68" />
+<img width="333" height="113" alt="image" src="https://github.com/user-attachments/assets/f87539ad-899f-45ee-972d-b039c6473311" />
+
 
 
 

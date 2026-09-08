@@ -25,33 +25,10 @@
 
 Задание 1.
 
-- Листинг кода:
+<img width="646" height="709" alt="image" src="https://github.com/user-attachments/assets/5a03f933-2fad-47e0-a0fd-b64d2dd05b56" />
+<img width="293" height="142" alt="image" src="https://github.com/user-attachments/assets/f2a30d38-9f59-4dd7-91c7-df9a0b9980ff" />
+<img width="312" height="141" alt="image" src="https://github.com/user-attachments/assets/8276c918-cf49-43d9-96b5-c3914260e266" />
 
-	  #include <iostream>
-	  #include <Windows.h>
-
-	  using namespace std;
-
-	  int main() {
-	 	  SetConsoleOutputCP(CP_UTF8);
-		  SetConsoleCP(CP_UTF8);
-
-		  cout << "Объём куба" << "\n";
-		  float edge_cube, volume;
-
-		  cout << "Введите размер ребра куба: ";
-		  cin >> edge_cube;
-	
-		  volume = edge_cube * edge_cube * edge_cube;
-
-		  cout << "Объём куба равен: ";
-		  cout << volume;
-
-		  return 0;
-	  }
-
-- Скриншоты выполнения программы:
-<img width="450" height="150" alt="image" src="https://github.com/user-attachments/assets/9fc59e20-030b-4ee6-8cdc-276038472bd9" />
 
 Задание 2.
 

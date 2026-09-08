@@ -27,7 +27,7 @@
 
 <img width="646" height="709" alt="image" src="https://github.com/user-attachments/assets/5a03f933-2fad-47e0-a0fd-b64d2dd05b56" />
 
-Выполнения программы:
+- Выполнения программы:
 
 <img width="293" height="142" alt="image" src="https://github.com/user-attachments/assets/f2a30d38-9f59-4dd7-91c7-df9a0b9980ff" />
 <img width="312" height="141" alt="image" src="https://github.com/user-attachments/assets/8276c918-cf49-43d9-96b5-c3914260e266" />
@@ -35,36 +35,13 @@
 
 Задание 2.
 
-- Листинг кода:
+<img width="626" height="801" alt="image" src="https://github.com/user-attachments/assets/856d1c41-f00c-46c9-b13b-0ecc0ddf3978" />
 
-		#include <iostream>
-		#include <Windows.h>
+- Выполнения программы:
 
-		using namespace std;
-
-		int main() {
-			SetConsoleOutputCP(CP_UTF8);
-			SetConsoleCP(CP_UTF8);
-
-			int first_num, second_num;
-
-			cout << "Введите первое число: ";
-			cin >> first_num;
-			cout << "Введите второе число: ";
-			cin >> second_num;
-
-			cout << "Сумма чисел: ";
-			cout << first_num + second_num << "\n";
-			cout << "Разность чисел: ";
-			cout << first_num - second_num << "\n";
-			cout << "Произведение чисел: ";
-			cout << first_num * second_num << "\n";
-
-			return 0;
-		}
-
-- Скриншоты выполнения программы:
 <img width="229" height="140" alt="image" src="https://github.com/user-attachments/assets/38a18558-61dc-4031-9ea6-83e925b76774" />
+<img width="288" height="100" alt="image" src="https://github.com/user-attachments/assets/880abd9e-eacb-4ddb-a015-2f8f3f3b9aa0" />
+
 
 Задание 3.
 

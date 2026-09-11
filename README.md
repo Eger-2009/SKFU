@@ -27,7 +27,7 @@
 
 <img width="646" height="709" alt="image" src="https://github.com/user-attachments/assets/5a03f933-2fad-47e0-a0fd-b64d2dd05b56" />
 
-- Выполнения программы:
+- Скриншоты выполнения программы:
 
 <img width="293" height="142" alt="image" src="https://github.com/user-attachments/assets/f2a30d38-9f59-4dd7-91c7-df9a0b9980ff" />
 <img width="312" height="141" alt="image" src="https://github.com/user-attachments/assets/8276c918-cf49-43d9-96b5-c3914260e266" />
@@ -37,7 +37,7 @@
 
 <img width="626" height="801" alt="image" src="https://github.com/user-attachments/assets/856d1c41-f00c-46c9-b13b-0ecc0ddf3978" />
 
-- Выполнения программы:
+- Скриншоты выполнения программы:
 
 <img width="229" height="140" alt="image" src="https://github.com/user-attachments/assets/38a18558-61dc-4031-9ea6-83e925b76774" />
 <img width="288" height="100" alt="image" src="https://github.com/user-attachments/assets/880abd9e-eacb-4ddb-a015-2f8f3f3b9aa0" />
@@ -79,7 +79,7 @@
 <img width="1094" height="800" alt="image" src="https://github.com/user-attachments/assets/10c540dd-df98-4e45-a31c-227c60e35aed" />
 
 
-- Выполнения программы:
+- Скриншоты выполнения программы:
 
 <img width="365" height="160" alt="image" src="https://github.com/user-attachments/assets/7a170401-37d0-4e0c-88c0-854d6afbf5be" />
 <img width="383" height="272" alt="image" src="https://github.com/user-attachments/assets/5ec479ca-9079-477d-b8f0-12f86abacdcf" />
@@ -89,8 +89,17 @@
 <img width="909" height="826" alt="image" src="https://github.com/user-attachments/assets/d452f24c-67f4-42a4-bdd9-1cd0260d1b92" />
 
 
-- Выполнения программы:
+- Скриншоты выполнения программы:
 
 <img width="301" height="212" alt="image" src="https://github.com/user-attachments/assets/a86b4dd1-f243-40ce-bd3b-10f1667498fc" />
 <img width="292" height="383" alt="image" src="https://github.com/user-attachments/assets/c27fc416-5289-45e6-8d73-4b817f26db22" />
 
+Задание 3.
+
+<img width="909" height="826" alt="image" src="https://github.com/user-attachments/assets/d452f24c-67f4-42a4-bdd9-1cd0260d1b92" />
+
+
+- Скриншоты выполнения программы:
+
+<img width="301" height="212" alt="image" src="https://github.com/user-attachments/assets/a86b4dd1-f243-40ce-bd3b-10f1667498fc" />
+<img width="292" height="383" alt="image" src="https://github.com/user-attachments/assets/c27fc416-5289-45e6-8d73-4b817f26db22" />

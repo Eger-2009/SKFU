@@ -75,3 +75,21 @@
 | Повышенный | Вычислить корни квадратного уравнения. Обработать все случаи. |
 
 Задание 1.
+
+<img width="1094" height="800" alt="image" src="https://github.com/user-attachments/assets/10c540dd-df98-4e45-a31c-227c60e35aed" />
+
+
+- Выполнения программы:
+
+<img width="365" height="160" alt="image" src="https://github.com/user-attachments/assets/7a170401-37d0-4e0c-88c0-854d6afbf5be" />
+<img width="383" height="272" alt="image" src="https://github.com/user-attachments/assets/5ec479ca-9079-477d-b8f0-12f86abacdcf" />
+
+Задание 2.
+
+<img width="1094" height="800" alt="image" src="https://github.com/user-attachments/assets/10c540dd-df98-4e45-a31c-227c60e35aed" />
+
+
+- Выполнения программы:
+
+<img width="365" height="160" alt="image" src="https://github.com/user-attachments/assets/7a170401-37d0-4e0c-88c0-854d6afbf5be" />
+<img width="383" height="272" alt="image" src="https://github.com/user-attachments/assets/5ec479ca-9079-477d-b8f0-12f86abacdcf" />

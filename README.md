@@ -86,10 +86,11 @@
 
 Задание 2.
 
-<img width="1094" height="800" alt="image" src="https://github.com/user-attachments/assets/10c540dd-df98-4e45-a31c-227c60e35aed" />
+<img width="909" height="826" alt="image" src="https://github.com/user-attachments/assets/d452f24c-67f4-42a4-bdd9-1cd0260d1b92" />
 
 
 - Выполнения программы:
 
-<img width="365" height="160" alt="image" src="https://github.com/user-attachments/assets/7a170401-37d0-4e0c-88c0-854d6afbf5be" />
-<img width="383" height="272" alt="image" src="https://github.com/user-attachments/assets/5ec479ca-9079-477d-b8f0-12f86abacdcf" />
+<img width="301" height="212" alt="image" src="https://github.com/user-attachments/assets/a86b4dd1-f243-40ce-bd3b-10f1667498fc" />
+<img width="292" height="383" alt="image" src="https://github.com/user-attachments/assets/c27fc416-5289-45e6-8d73-4b817f26db22" />
+

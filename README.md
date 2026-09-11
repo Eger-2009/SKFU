@@ -96,10 +96,17 @@
 
 Задание 3.
 
-<img width="909" height="826" alt="image" src="https://github.com/user-attachments/assets/d452f24c-67f4-42a4-bdd9-1cd0260d1b92" />
+<img width="909" height="831" alt="image" src="https://github.com/user-attachments/assets/a96efdfc-2b78-4ac1-a96b-c6a54ad31771" />
+<img width="1212" height="830" alt="image" src="https://github.com/user-attachments/assets/0926a7c2-47e4-433b-a703-e36bc1623d0e" />
+
 
 
 - Скриншоты выполнения программы:
 
-<img width="301" height="212" alt="image" src="https://github.com/user-attachments/assets/a86b4dd1-f243-40ce-bd3b-10f1667498fc" />
-<img width="292" height="383" alt="image" src="https://github.com/user-attachments/assets/c27fc416-5289-45e6-8d73-4b817f26db22" />
+<img width="457" height="332" alt="image" src="https://github.com/user-attachments/assets/62c71909-3c13-4c52-8c82-ac48381d2f5d" />
+<img width="446" height="253" alt="image" src="https://github.com/user-attachments/assets/cb11eccb-40ec-4f9e-8786-d5563d886eea" />
+<img width="443" height="249" alt="image" src="https://github.com/user-attachments/assets/501f986f-bfce-4f34-ac68-669b4a16701f" />
+<img width="453" height="267" alt="image" src="https://github.com/user-attachments/assets/0b0dab24-1a35-4568-8a2c-6e5848382f93" />
+<img width="440" height="313" alt="image" src="https://github.com/user-attachments/assets/3680727f-da4a-4e54-93a5-3145cd8c617c" />
+<img width="450" height="295" alt="image" src="https://github.com/user-attachments/assets/f2c165b9-0567-4669-87dd-8aca0502eb32" />
+
